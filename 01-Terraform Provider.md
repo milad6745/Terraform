@@ -47,6 +47,8 @@ resource "aws_instance" "example" {
 ```
 
 در این مثال، از فراهم‌کننده AWS برای ایجاد یک EC2 instance استفاده می‌شود.
+
+
 نمونه کد برای تعریف کردن provider open stack در terraform
 
 ```yml
