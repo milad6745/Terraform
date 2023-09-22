@@ -36,3 +36,12 @@
    این دستور اطلاعات نسخه‌ی نصب شده از Terraform را نشان می‌دهد.
 
 حالا شما Terraform را بر روی سیستم اوبونتو خود نصب کرده‌اید و می‌توانید از آن برای مدیریت زیرساخت‌های خود استفاده کنید.
+
+## install from zip
+
+```
+https://releases.hashicorp.com/terraform/1.5.7/terraform_1.5.7_linux_amd64.zip
+unzip terraform_1.5.7_linux_amd64.zip
+mv terrraform /usr/local/bin
+chmod +x terraform
+```
