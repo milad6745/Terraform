@@ -22,3 +22,13 @@ resource "aws_instance" "example" {
 اما اگر یکی از فایل‌های شما دارای مشکلات نحوی یا ساختاری باشد، پیغام خطا مرتبط با آن فایل نمایش داده خواهد شد.
 
 به طور کلی، `terraform validate` یک ابزار مفید است برای اطمینان حاصل کردن از صحت فایل‌های موجود در پروژه Terraform قبل از اجرای هرگونه عملیاتی مانند `terraform plan` یا `terraform apply`.
+
+
+## check validation
+```
+# terraform init
+erraform has been successfully initialized!
+
+# terraform validate
+Success! The configuration is valid.
+```
