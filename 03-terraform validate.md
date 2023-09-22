@@ -6,7 +6,7 @@
 مثال:
 فرض کنید یک فایل به نام `main.tf` داریم که محتوای زیر را دارد:
 
-```yaml
+```hcl
 provider "aws" {
   region = "us-west-2"
 }
