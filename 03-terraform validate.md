@@ -25,7 +25,7 @@ resource "aws_instance" "example" {
 
 
 ## check validation
-```
+```shell
 # terraform init
 erraform has been successfully initialized!
 
